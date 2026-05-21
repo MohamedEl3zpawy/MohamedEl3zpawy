@@ -1,6 +1,6 @@
 ## Welcome to Mohamed EL3zBawy's profile! 👋
 
-<img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/raw/main/assets/development.gif" align="right" width="280" />
+<img src="code.gif" align="right" width="300" />
 
 * 🎓 **Computer Science Student** | Software Engineering Specialization
 * 💻 Passionate about building Desktop Applications (Java/JavaFX) and Web Development.
