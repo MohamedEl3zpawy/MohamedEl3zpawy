@@ -6,7 +6,6 @@
 * 💻 Passionate about building Desktop Applications (Java/JavaFX) and Web Development.
 * 🧠 **CS Foundations:** OOP, Data Structures, Problem Solving, Logical Thinking.
 * 👥 Leader of tech-team [https://tech-team.live/](https://tech-team.live/)
-* ☕ **Fun Fact:** I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ---
 
