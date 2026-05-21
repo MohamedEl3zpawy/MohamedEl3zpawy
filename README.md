@@ -1,6 +1,6 @@
 ## Welcome to Mohamed EL3zBawy's profile! 👋
 
-<img src="https://media.giphy.com/media/YmZOBQMWSvHdC/giphy.gif" align="right" width="260" />
+<img src="https://raw.githubusercontent.com/MohamedEl3zpawy/MohamedEl3zpawy/main/code.gif" align="right" width="240" onerror="this.src='https://media.giphy.com/media/YmZOBQMWSvHdC/giphy.gif'"/>
 
 * 🎓 **Computer Science Student** | Software Engineering Specialization
 * 💻 Passionate about building Desktop Applications (Java/JavaFX) and Web Development.
@@ -23,4 +23,5 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=MohamedEl3zpawy&color=blue&style=flat-square&label=PROFILE+VIEWS)
 ![](https://komarev.com/ghpvc/?username=MohamedEl3zpawy&color=blue&style=flat-square&label=PROFILE+VIEWS)
